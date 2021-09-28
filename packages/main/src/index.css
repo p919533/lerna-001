@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+ul,
+ol {
+    list-style: none;
+}
+
+html {
+    width: 100%;
+    font-size: 5.208333vw;
+}
+
+body {
+    font-size: 0.14rem;
+    line-height: 1.5;
+    font-family: -apple-system, Helvetica, Arial, 'Noto Sans SC', 'PingFangSC',
+        'Microsoft Yahei', sans-serif !important;
+    color: #333;
+}
+
+img {
+    max-width: 100%;
+    max-height: 100%;
+    vertical-align: middle;
+}
+
+#root {
+    height: 100%;
+}
