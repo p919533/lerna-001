@@ -1,5 +1,5 @@
 {
-  "name": "bos-document",
+  "name": "bos-document-ceshi",
   "version": "0.0.1",
   "private": true,
   "description": "测试组件",
@@ -13,7 +13,7 @@
   "homepage": "https://github.com/p919533",
   "repository": {
     "type": "git",
-    "url": "https://github.com/p919533/lerna-ceshi"
+    "url": "https://github.com/p919533/lerna-001"
   },
   "files": [
     "lib"
