@@ -1,7 +1,7 @@
 {
   "name": "bos-document-ceshi",
   "version": "0.0.1",
-  "private": true,
+  "private": false,
   "description": "测试组件",
   "main": "lib/index.js",
   "module": "lib/index.js",
