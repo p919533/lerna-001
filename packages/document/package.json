@@ -5,6 +5,7 @@
   "description": "测试组件",
   "main": "lib/index.js",
   "module": "lib/index.js",
+  "license": "MIT",
   "keywords": [
     "模型",
     "UI",
