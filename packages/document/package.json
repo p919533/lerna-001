@@ -17,7 +17,8 @@
     "url": "https://github.com/p919533/lerna-001"
   },
   "publishConfig": {
-    "access": "public"
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
   },
   "files": [
     "lib"
