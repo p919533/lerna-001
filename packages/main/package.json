@@ -1,6 +1,6 @@
 {
   "name": "bos-main-ceshi",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "private": true,
   "dependencies": {
     "antd": "4.17.0-alpha.3",

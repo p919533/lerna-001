@@ -1,6 +1,6 @@
 {
   "name": "bos-document-ceshi",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "private": false,
   "description": "测试组件",
   "main": "lib/index.js",
